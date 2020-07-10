@@ -1,0 +1,96 @@
+.leftToRight{
+	display: flex;
+}
+
+.header{
+	/* background: pink; */
+	text-align: center;
+	font-size: 28px;
+	padding: 7px;
+	border-bottom: 1px #ccc solid;
+	color: #18D1F7;
+	height: 100px;
+}
+
+.left-menu{
+	/* background: antiquewhite; */
+	width: 150px;
+	border-right: 1px #ccc solid;
+}
+
+.content{
+	/* background: aqua; */
+	flex: 1;
+	display: flex;
+	margin: 5px;
+	margin-right: 5px;
+}
+
+.glondon {
+	min-height: 250px;
+	min-width: 376px;
+	border: 1px #abc solid;
+}
+.footer{
+	/* background: pink; */
+	text-align: center;
+	font-size: 15px;
+	padding: 7px;
+	border-top: 1px #ccc solid;
+	color: #ccc;
+}
+.rim {
+	border: 1px #ccc solid;
+	margin: 5px;
+	padding: 5px;
+}
+.london {
+	border: 1px #ccc solid;
+	margin: 5px;
+	padding: 5px;
+}
+.india {
+	border: 1px #ccc solid;
+	margin: 5px;
+	padding: 5px;
+}
+.hrim {
+	text-align: center;
+	border-bottom: 1px #ccc solid;
+}
+.bmenu {
+	margin: 5px;
+	margin-bottom: 20px;
+	margin-top: 30px;
+	border: 1px #749DF0 solid;
+	background:#ccC;
+	padding: 5px;
+	border-radius: 10px 10px 10px 10px;
+	text-align: center;	
+}
+.button {
+	border: 1px #749DF0 solid;
+	background:#ccc;
+	padding: 5px;
+	border-radius: 10px 10px 10px 10px;	
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	width: 70px;
+	height: 20px;
+}
+.brim {	
+	text-align: center;	
+	margin: 20px;
+	border: 1px #ccc solid;
+	display: flex;
+	justify-content: space-between;
+}
+.goods {
+    border: 1px #ccc solid;	
+	margin: 5px;
+}
+.content p {
+	border: 1px #ccc solid;
+}
